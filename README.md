@@ -140,7 +140,7 @@ reads or writes the real `data/job_applications.db`.
 - [x] **Tags** (simple comma-separated tags, searchable)
 - [x] **Interview-round tracking** (count of rounds completed per application)
 - [x] **Automated tests** covering validators, services, and the repository layer (154 tests, isolated temp database)
-- [ ] Packaged **GitHub Release** with versioned tag
+- [x] Packaged **GitHub Release** with versioned tag
 
 ## Development Status
 
