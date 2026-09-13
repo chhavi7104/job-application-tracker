@@ -1,0 +1,5 @@
+# Terminal UI
+rich>=13.7,<14.0
+
+# Testing
+pytest>=8.0,<9.0
